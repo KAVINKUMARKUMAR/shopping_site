@@ -816,7 +816,7 @@
  }
 
  .feedback {
-     width: 100%;
+     width: 1519px;
      height: 600px;
      background-color: rgba(128, 128, 128, 0.205);
      display: flex;
@@ -900,7 +900,7 @@
  }
 
  .subscr {
-     width: 100%;
+     width: 1519px;
      height: 400px;
      background-color:white;
      display: flex;
@@ -957,7 +957,7 @@
     color: rgba(128, 128, 128, 0.679);
  }
  footer{
-    width: 1525px;
+    width: 1519px;
     height: 390px;
     background-color: rgb(101, 0, 0);
     display: flex;
