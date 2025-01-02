@@ -998,7 +998,6 @@
         .foot_about{
             width:1400px;
             height: 220px;
-            /* background-color: bisque; */
             display: flex;
             margin-top: 70px;
             .foot_box{
